@@ -152,4 +152,8 @@ SmartPremium/
 ├── requirements.txt
 └── README.md
 
+👤 Author
+Vinayak Kumar
+Data Science | Machine Learning | Computer Vision
 
+⭐ If you like this project, give it a star!
